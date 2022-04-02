@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tre4smith
 - 👀 I’m interested in coding, blockchain technology and full stack development
-- 🌱 I’m currently learning blockchain development, python, and java
+- 🌱 I’m currently learning full stack blockchain development, python, and java
 - 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me my emial is tmsmith0310@gmail.com
 
